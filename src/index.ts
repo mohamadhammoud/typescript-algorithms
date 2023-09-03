@@ -9,3 +9,4 @@ import("./6_Is_Power_Of_Two");
 import("./7_Regular_VS_Recursion");
 import("./8_Linear_VS_Binary_Search");
 import("./9_Bubble_VS_Quick_Sort");
+import("./10_Merge_Sort");
